@@ -1,2 +1,2 @@
 # Prime-numbers
-A help tp find prime numbers in a specific domain.
+A help to find prime numbers in a specific domain.
